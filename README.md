@@ -1,4 +1,9 @@
-OBSTACLE AVOIDANCE PROJECT "README":
+# Underwater obstacle avoidance project
+This code was developed by three different teams which are listed at the bottom of this file.
+
+That team in which I partecipated is the team 2A, whose report is present in the repository and explains what was my team role whith repect to the whole project.
+
+## Code usage
 
 Download "obstacle_avoidance" and "obstacle_avoidance_bag" directories inside the zip folder.
 NOTE: once the "obstacle_avoidance" package has been compiled through the  "catkin_make" command, be sure to make executable all the python scripts inside the src directory
@@ -43,4 +48,11 @@ NOTE: The rosbag node is commented by default inside the launch files: if in nee
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+## Authors
+
+Group 2A: Anthony Cappetta, Giacomo Galli, Emilio Gigante, Bianca Malucchi
+
+Group 2B: Lorenzo Bozzano Tesei, Dario Lauretta, Federica Russo
+
+Group 2C: Dawid Bogucki, Francesca Gennai,  Gabriele Scarpelli
 
